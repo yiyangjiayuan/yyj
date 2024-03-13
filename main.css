@@ -15,7 +15,7 @@ html,body{
 }
 /*分发页面*/
 .distribute-header{
-	background: url(../images/distribute-bg.png) no-repeat center;
+	background: url("distribute-bg.png.jpg")/*tpa=http://xz.abff669.top/2/images/distribute-bg.png*/ no-repeat center;
 	background-size: cover;
 	height: 150px;
 }
